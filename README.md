@@ -32,6 +32,7 @@
 
 ### 프로젝트 구조
 
+```
 project
 │
 ├ main.py
@@ -41,12 +42,13 @@ project
 ├ QA.sql
 │
 ├ templates
-│ └ ButterflyDream.html
+│   └ ButterflyDream.html
 │
 ├ static
-│ ├ audio
-│ ├ images
-│ └ css
+│   ├ audio
+│   ├ images
+│   └ css
+```
 
 ---
 
