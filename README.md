@@ -93,7 +93,8 @@ project
 ## 실행 방법
 
 > python main.py
-`main.py` 실행 시 다음 과정이 자동으로 수행된다.
+
+-> `main.py` 실행 시 다음 과정이 자동으로 수행된다.
 
 1. 동화 HTML 파일에서 문단을 추출하여 DB에 저장 (`insert_story_chunks.py`)
 2. 문단 임베딩 생성 (`embed_story_chunks.py`)
